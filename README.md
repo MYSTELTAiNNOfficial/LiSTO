@@ -3,6 +3,10 @@ This project is my assignment, AFL4, for a course AMAD (Advanced Mobile App Deve
 
 Using my ~~handmade~~ API that i too hosted in somewhere.
 
+### NOTE
+
+Re-upload this thing, because i realised that the file ListResto.xcodeproj not uploaded. ~~Big Mistake~~
+
 # Demo video
 https://user-images.githubusercontent.com/53290732/171777620-e4716587-030d-4196-a229-39453edc5c07.mov
 
