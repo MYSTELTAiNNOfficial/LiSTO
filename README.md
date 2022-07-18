@@ -1,4 +1,4 @@
-# ListResto
+# LiSTO
 This project is my assignment, AFL4, for a course AMAD (Advanced Mobile App Development)
 
 ~~Using my ~~handmade~~ API that i too hosted in somewhere.~~
