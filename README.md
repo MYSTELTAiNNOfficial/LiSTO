@@ -1,7 +1,9 @@
 # ListResto
 This project is my assignment, AFL4, for a course AMAD (Advanced Mobile App Development)
 
-Using my ~~handmade~~ API that i too hosted in somewhere.
+~~Using my ~~handmade~~ API that i too hosted in somewhere.~~
+
+My website has been closed since 1 July 2022, i will inform again if there's new update.
 
 ### NOTE
 
